@@ -1,0 +1,5 @@
+- You can now save and load pixie editor state/layers (similar to .psd files) from both regular and integrate modes.
+- Text will now get removed properly after clicking 'cancel' button in text panel.
+- Fixed an issue where pixie would not work properly inside an iframe.
+- Reduced the size of many stickers and other images, this should improve load times.
+- Fixed several small visual issues with pixie interface.
